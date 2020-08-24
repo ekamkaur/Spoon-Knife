@@ -1,9 +1,10 @@
-### Well hello there!
+HOW TO FORK A REPOSITORY :
 
-This repository is meant to provide an example for *forking* a repository on GitHub.
-
-Creating a *fork* is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit *Pull Requests* to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
-
-After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
-
-For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
+1. Go to a particular repository.
+2. On top right corner(above files), there is a green button "Code", click on it.
+3. Copy the clone with https link.
+4. Open git bash on your pc.
+5. Type command "git clone <link>".
+6. Our forked repository will be ready.
+7. We can make changes we want to make.
+8. Commit these changes.
